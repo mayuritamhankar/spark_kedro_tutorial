@@ -1,0 +1,391 @@
+2021-10-20 11:19:19,333 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:19:39,366 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:19:39,388 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:22:52,989 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:22:55,403 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:22:55,422 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:29:22,587 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:29:25,073 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:29:25,097 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:31:05,050 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:31:07,545 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:31:07,563 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:32:52,947 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:32:55,486 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:32:55,505 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:34:05,619 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:34:08,042 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:34:08,061 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:37:54,929 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:37:57,527 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:37:57,544 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:49:51,330 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:49:51,334 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:49:51,350 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:58:22,777 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:58:22,780 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:58:22,797 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 11:58:59,646 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 11:58:59,650 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 11:58:59,666 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 12:03:55,508 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 12:03:55,513 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 12:03:55,529 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 12:04:57,139 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 12:04:57,143 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 12:04:57,160 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 12:06:04,397 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 12:06:04,401 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 12:06:04,418 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 12:06:31,138 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 12:06:31,142 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 12:06:31,159 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-20 12:17:49,387 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-20 12:17:49,391 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-20 12:17:49,407 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 10:06:37,813 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 10:06:37,822 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 10:06:37,842 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 10:10:05,455 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 10:39:08,226 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 10:39:08,230 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 10:39:08,246 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 10:49:31,295 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 10:49:31,299 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 10:49:31,315 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:07:46,577 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:07:46,581 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:07:46,598 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:11:03,034 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:11:03,039 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:11:03,055 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:11:08,668 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:11:08,672 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:11:08,688 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:14:39,467 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:14:39,471 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:14:39,491 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:16:27,625 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:16:27,629 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:16:27,646 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:18:07,083 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:18:07,087 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:18:07,104 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:19:32,658 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:19:32,662 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:19:32,679 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 11:19:54,175 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 11:19:54,180 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 11:19:54,196 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 12:11:30,529 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 12:11:30,535 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 12:11:30,551 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 12:12:53,798 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 12:12:53,802 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 12:12:53,817 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 12:22:39,853 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 12:22:39,856 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 12:22:39,872 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 13:01:57,916 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:01:57,920 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 13:01:57,941 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 13:07:31,983 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:07:31,987 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 13:07:32,006 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 13:35:05,026 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:35:05,032 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 13:35:05,050 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-21 13:42:16,685 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:46:54,426 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:53:49,595 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-21 13:54:01,891 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-21 13:54:01,913 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-22 16:16:51,894 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-22 16:16:58,280 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-22 16:16:58,301 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/kedro-tutorial
+2021-10-25 17:13:00,488 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:15:37,889 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:15:39,288 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:15:39,309 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:18:52,763 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:24:06,262 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:24:40,468 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:24:41,720 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:24:41,741 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:30:43,800 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:32:10,572 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:32:13,556 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:32:13,576 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:38:47,554 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:38:48,691 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:38:48,710 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:45:40,098 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:45:41,149 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:45:41,167 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:48:36,372 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:48:37,417 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:48:37,437 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:49:50,732 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:49:51,781 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:49:51,800 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:50:59,418 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:51:00,450 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:51:00,469 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:52:00,477 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:52:01,530 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:52:01,549 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:52:55,633 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:52:56,668 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:52:56,687 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:54:10,044 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:54:11,074 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:54:11,093 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:55:25,301 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:55:26,333 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:55:26,352 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 17:57:53,701 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 17:57:54,756 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 17:57:54,776 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 18:00:27,399 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 18:00:28,530 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 18:00:28,549 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 19:53:19,780 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 19:53:20,814 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 19:53:20,834 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 20:01:47,116 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 20:01:48,181 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 20:01:48,201 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 20:07:45,640 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 20:07:46,768 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 20:07:46,789 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 20:09:10,802 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 20:09:11,904 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 20:09:11,924 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 20:09:59,151 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 20:10:00,239 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 20:10:00,260 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-25 20:12:20,684 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-25 20:12:21,815 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-25 20:12:21,835 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 16:48:36,818 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 16:48:37,955 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 16:48:37,977 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 16:50:38,839 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 16:50:42,177 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 16:50:42,195 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 16:56:26,582 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 16:56:27,695 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 16:56:27,715 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:00:10,240 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:00:11,558 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:00:11,577 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:25:00,653 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:25:01,856 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:25:01,877 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:26:14,601 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:26:15,738 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:26:15,757 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:32:06,138 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:32:07,257 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:32:07,277 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:34:31,270 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:34:32,408 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:34:32,429 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:37:45,883 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:37:47,217 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:37:47,238 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:40:17,269 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:40:18,382 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:40:18,403 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:41:20,481 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:41:21,603 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:41:21,623 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:42:23,290 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:42:24,416 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:42:24,435 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:44:12,566 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:44:13,689 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:44:13,710 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:47:57,007 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:48:00,337 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:48:00,358 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:48:52,100 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:48:53,740 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:48:53,767 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:49:51,391 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:49:52,631 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:49:52,652 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:52:29,779 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:52:30,910 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:52:30,931 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:54:30,885 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:54:32,010 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:54:32,028 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 17:57:29,713 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 17:57:30,776 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 17:57:30,795 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:04:09,321 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:04:10,767 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:04:10,788 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:04:45,598 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:04:46,684 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:04:46,703 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:06:22,211 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:06:23,280 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:06:23,300 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:07:33,572 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:07:34,648 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:07:34,668 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:09:15,378 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:09:16,442 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:09:16,461 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:11:17,692 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:11:18,754 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:11:18,773 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:15:40,495 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:15:41,555 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:15:41,576 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:18:03,781 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:18:04,841 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:18:04,861 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:19:19,267 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:19:20,557 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:19:20,579 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:27:02,820 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:27:03,888 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:27:03,910 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:28:32,592 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:28:33,658 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:28:33,676 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:29:46,273 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:29:47,341 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:29:47,364 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:30:32,223 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:30:33,289 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:30:33,308 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:32:41,375 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:32:42,428 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:32:42,448 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:33:42,154 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:33:43,227 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:33:43,249 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:34:08,345 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:34:09,409 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:34:09,429 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:37:33,774 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:37:34,846 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:37:34,866 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:39:01,486 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:39:02,900 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:39:02,922 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:40:32,974 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:40:34,046 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:40:34,067 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:43:43,733 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:43:44,796 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:43:44,815 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:44:19,653 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:44:20,726 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:44:20,747 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:45:25,045 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:45:26,119 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:45:26,138 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:47:01,167 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:47:02,227 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:47:02,247 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 18:55:44,800 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 18:55:46,278 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 18:55:46,303 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:01:46,022 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:01:47,099 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:01:47,120 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:04:09,248 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:04:10,307 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:04:10,327 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:04:57,576 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:04:58,645 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:04:58,666 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:09:20,135 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:09:21,209 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:09:21,229 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:10:20,439 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:10:21,515 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:10:21,538 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:31:52,354 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:31:53,443 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:31:53,464 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:33:49,017 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:33:50,107 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:33:50,126 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:35:39,477 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:35:40,614 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:35:40,633 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:37:34,402 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:37:35,555 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:37:35,575 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:39:19,772 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:39:20,885 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:39:20,906 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:42:47,148 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:42:48,354 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:42:48,374 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:45:57,461 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:46:00,505 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:46:00,524 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 19:51:26,953 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 19:51:28,048 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 19:51:28,068 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:08:24,599 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:08:25,746 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:08:25,766 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:19:26,321 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:19:27,404 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:19:27,426 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:20:06,222 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:20:07,314 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:20:07,333 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:21:08,418 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:21:09,505 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:21:09,526 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:25:30,014 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:25:31,261 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:25:31,281 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:28:09,038 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:28:10,294 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:28:10,316 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:30:16,877 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:30:17,970 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:30:17,990 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:33:03,439 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:33:04,537 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:33:04,557 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:33:53,165 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:33:54,592 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:33:54,624 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:34:26,844 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:34:27,926 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:34:27,947 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:36:00,353 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:36:01,451 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:36:01,471 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:37:01,389 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:37:02,485 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:37:02,505 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:39:16,339 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:39:17,439 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:39:17,459 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:41:16,755 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:41:17,884 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:41:17,904 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:47:57,922 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:47:59,019 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:47:59,041 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:48:54,216 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:48:55,320 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:48:55,342 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:52:38,609 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:52:39,695 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:52:39,715 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial
+2021-10-26 20:55:31,089 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.2
+2021-10-26 20:55:32,184 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-10-26 20:55:32,205 - kedro.framework.session.session - WARNING - Unable to git describe /Users/Mayuri_Tamhankar/spark_kedro_tutorial

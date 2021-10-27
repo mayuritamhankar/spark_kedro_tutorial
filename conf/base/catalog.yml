@@ -1,0 +1,84 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/05_data/01_data_catalog.html
+
+companies:
+  type: spark.SparkDataSet
+  filepath: data/01_raw/companies.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    sep: '|'
+    header: True
+
+reviews:
+  type: spark.SparkDataSet
+  filepath: data/01_raw/reviews.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    sep: '|'
+    header: True
+
+shuttles:
+  type: pandas.ExcelDataSet
+  filepath: data/01_raw/shuttles.xlsx
+
+shuttles_csv@pandas:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/shuttles.csv
+
+shuttles_csv@spark:
+  type: spark.SparkDataSet
+  filepath: data/01_raw/shuttles.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    sep: '|'
+    header: True
+    mode: 'overwrite'
+
+preprocessed_companies:
+  type: spark.SparkDataSet
+  filepath: data/02_intermediate/preprocessed_companies.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    header: True
+    mode: 'overwrite'
+
+preprocessed_shuttles:
+  type: spark.SparkDataSet
+  filepath: data/02_intermediate/preprocessed_shuttles.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    header: True
+    mode: 'overwrite'
+
+regressor:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/regressor.pickle
+  versioned: true
+
+model_input_table:
+  type: spark.SparkDataSet
+  filepath: data/03_primary/model_input_table.csv
+  file_format: csv
+  load_args:
+    header: True
+    inferSchema: True
+  save_args:
+    header: True
+    mode: 'overwrite'

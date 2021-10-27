@@ -1,0 +1,3 @@
+[console_scripts]
+kedro-tutorial = kedro_tutorial.__main__:main
+
