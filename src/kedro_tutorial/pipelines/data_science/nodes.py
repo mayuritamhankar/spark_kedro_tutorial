@@ -16,21 +16,20 @@ def split_data(data: pyspark.sql.DataFrame, parameters: Dict) -> Tuple:
     Returns:
         Split data.
     """
-    print("**********")
-    print(data.count())
-    data.printSchema()
+    # print("**********")
+    # print(data.count())
+    # data.printSchema()
     # for column in data.columns:
     # print(data.groupby("company_rating").count().orderBy(desc("count")).show())
-    print(parameters)
-    print("**********")
+    # print(parameters)
+    # print("**********")
     data=data.toPandas()
-    print(data.shape[0])
-    print(data.describe())
-    print(data.head())
-    print("**********")
+    # print(data.shape[0])
+    # print(data.describe())
+    # print(data.head())
+    # print("**********")
     X = data[parameters["features"]]
     y = data["price"]
-    # data.wit
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=parameters["test_size"], random_state=parameters["random_state"]
     )

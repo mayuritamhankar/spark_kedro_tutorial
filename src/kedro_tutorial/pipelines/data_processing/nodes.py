@@ -32,7 +32,7 @@ def preprocess_companies(companies: pyspark.sql.DataFrame) -> pyspark.sql.DataFr
         Preprocessed data, with `company_rating` converted to a float and
         `iata_approved` converted to boolean.
     """
-    companies.printSchema()
+    # companies.printSchema()
     # companies["iata_approved"] = _is_true(companies["iata_approved"])
     # companies["company_rating"] = _parse_percentage(companies["company_rating"])
     return companies.withColumn("iata_approved", udf(_is_true, StringType())(col("iata_approved"))) \
@@ -49,7 +49,7 @@ def preprocess_shuttles(shuttles: pyspark.sql.DataFrame) -> pyspark.sql.DataFram
         Preprocessed data, with `price` converted to a float and `d_check_complete`,
         `moon_clearance_complete` converted to boolean.
     """
-    shuttles.printSchema()
+    # shuttles.printSchema()
     # shuttles["d_check_complete"] = _is_true(shuttles["d_check_complete"])
     # shuttles["moon_clearance_complete"] = _is_true(shuttles["moon_clearance_complete"])
     # shuttles["price"] = _parse_money(shuttles["price"])
@@ -77,14 +77,14 @@ def create_model_input_table(
     #     companies, left_on="company_id", right_on="id"
     # )
     # model_input_table = model_input_table.dropna()
-    shuttles.printSchema()
-    reviews.printSchema()
-    companies.printSchema()
-    print(shuttles.count())
-    print(reviews.count())
-    print(companies.count())
-    print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).count())
-    print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).withColumnRenamed("id","idp").join(companies,on=[col("company_id")==companies.id]).count())
-    print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).withColumnRenamed("id","idp").join(companies,on=[col("company_id")==companies.id]).dropna().count())
+    # shuttles.printSchema()
+    # reviews.printSchema()
+    # companies.printSchema()
+    # print(shuttles.count())
+    # print(reviews.count())
+    # print(companies.count())
+    # print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).count())
+    # print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).withColumnRenamed("id","idp").join(companies,on=[col("company_id")==companies.id]).count())
+    # print(shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).withColumnRenamed("id","idp").join(companies,on=[col("company_id")==companies.id]).dropna().count())
 
     return shuttles.join(reviews,on=[col("id")==col("shuttle_id")]).withColumnRenamed("id","idp").join(companies,on=[col("company_id")==companies.id]).dropna()
